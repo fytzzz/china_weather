@@ -1,0 +1,13 @@
+ChinaWeather
+============
+中国天气http://www.weather.com.cn
+
+http://m.weather.com.cn/data/101110101.html（六天预报）
+
+http://www.weather.com.cn/data/sk/101110101.html（实时天气信息）
+
+其中101110101是城市的代码
+
+中国天气网城市代码(见 doc/location.txt)
+
+Copyright (c) 2012 [foyoto of plugin creator], released under the MIT license
